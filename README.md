@@ -1,2 +1,2 @@
-# reconstrucao-sinal
-Reconstrução de um sinal utilizando o critério de Nyquist
+## 🔄Reconstrução de um sinal utilizando o critério de Nyquist
+Este projeto implementa a reconstrução de um sinal contínuo a partir de suas amostras discretas, utilizando o critério de Nyquist e a função sinc para interpolação. O código é escrito em MATLAB e demonstra o processo de amostragem, discretização e reconstrução de sinais, como parte do estudo de Teoria de Comunicação e Processamento de Sinais.📡
