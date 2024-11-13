@@ -41,4 +41,18 @@ Essa abordagem ajuda a:
 O script gera duas figuras principais:
 
 1. **Contribuições das Funções Sinc**: Mostra a contribuição de cada função sinc centrada em uma amostra, formando o sinal reconstruído.
-2. **Comparação Visual**: Apresenta o sinal original, o sinal amostrado e o sinal reconstruído, destacando a precisão da reconstrução.
+![Sinal Reconstruído](image/Contribuições%20das%20Funções%20Sinc%20para%20a%20Reconstrução%20do%20Sinal.jpg)
+
+3. **Comparação Visual**: Apresenta o sinal original, o sinal amostrado e o sinal reconstruído, destacando a precisão da reconstrução.
+![Sinal Reconstruído](image/Sinal%20Reconstruido.jpg)
+
+## 🛠 Requisitos
+- MATLAB para executar os scripts.
+  
+## 🚀 Como Usar
+1. Clone o repositório.
+2. Execute o script main.m para visualizar o processo de reconstrução do sinal.
+
+## 📚 Referências
+-  [🔗 Teorema de Amostragem de Nyquist-Shannon](https://pt.wikipedia.org/wiki/Teorema_da_amostragem_de_Nyquist–Shannon)
+- [🔗 Função Sinc](https://pt.wikipedia.org/wiki/Função_sinc)
