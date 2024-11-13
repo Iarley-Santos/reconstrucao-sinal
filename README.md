@@ -51,7 +51,7 @@ O script gera duas figuras principais:
   
 ## 🚀 Como Usar
 1. Clone o repositório.
-2. Execute o script main.m para visualizar o processo de reconstrução do sinal.
+2. Execute o script `main.m` para visualizar o processo de reconstrução do sinal.
 
 ## 📚 Referências
 -  [🔗 Teorema de Amostragem de Nyquist-Shannon](https://pt.wikipedia.org/wiki/Teorema_da_amostragem_de_Nyquist–Shannon)
